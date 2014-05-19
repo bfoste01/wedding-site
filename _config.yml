@@ -1,0 +1,54 @@
+title:            Two Crazy Kids
+description:      One crazy world.
+logo:             jb-logo.png
+disqus_shortname: disqus_PGKBe5jEXP
+search:           true
+# Your site's domain goes here. When working locally use localhost server leave blank
+# PS. If you set this wrong stylesheets and scripts won't load and most links will break.
+# PPS. If you leave it blank for local testing home links won't work, they'll be fine for live domains though.
+url:    http://localhost:4000
+
+# Owner/author information
+owner:
+  name:           Brandon Foster
+  avatar:         jb1.jpg
+  email:          julie_thomason@yahoo.com
+  # Social networking links used in footer. Update and remove as you like.
+  twitter: jat217
+  facebook:
+  github: bfoste01
+  linkedin:
+  instagram: julie_thomason
+  tumblr:
+  # For Google Authorship https://plus.google.com/authorship
+  google_plus:    "http://plus.google.com/123123123123132123"
+
+# Analytics and webmaster tools stuff goes here
+google_analytics:
+google_verify:
+# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+bing_verify:
+
+# Links to include in top navigation
+# For external links add external: true
+links:
+  - title: About Us
+    url: /about/
+  - title: Blog
+    url: /articles/
+  - title: Wedding Info
+    url: /wedding-info/
+  - title: Registry Info
+    url: /registry/
+  - title: Places to Stay in the Upper Valley
+    url: /places-to-stay/
+  - title: Things to do in the Upper Valley
+    url: /things-to-do/
+    external: true
+# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone:    America/New_York
+highlighter: pygments
+markdown:    kramdown
+
+# https://github.com/mojombo/jekyll/wiki/Permalinks
+permalink:   /:categories/:title/
