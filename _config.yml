@@ -1,7 +1,7 @@
 title:            Two Crazy Kids
-description:      One crazy world.
+description:      One crazy world
 logo:             jb-logo.png
-disqus_shortname: disqus_PGKBe5jEXP
+disqus_shortname: 2crazykids
 search:           true
 # Your site's domain goes here. When working locally use localhost server leave blank
 # PS. If you set this wrong stylesheets and scripts won't load and most links will break.
@@ -15,17 +15,18 @@ owner:
   email:          julie_thomason@yahoo.com
   # Social networking links used in footer. Update and remove as you like.
   twitter: jat217
-  facebook:
+  facebook: brandon.foster.336
   github: bfoste01
   linkedin:
   instagram: julie_thomason
   tumblr:
   # For Google Authorship https://plus.google.com/authorship
-  google_plus:    "http://plus.google.com/123123123123132123"
+  google_plus:    
 
 # Analytics and webmaster tools stuff goes here
-google_analytics:
-google_verify:
+google_analytics: brandon.foster5150
+google_verify: iXpGox5vp-DRS6-5pUS1pxgBGzQFv1h2fsEBtlqr9iI
+
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:
 

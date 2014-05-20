@@ -9,6 +9,7 @@ image:
   credit: <a href="http://www.flickr.com/photos/76195500@N00/2434626795/">a song under the sugar sugar</a> via <a href="http://compfight.com">Compfight</a> <a href="https://creativecommons.org/licenses/by-nc-nd/2.0/">cc</a>
   creditlink: 
 ---
+**Coming Soon...**
 
-This will contain a short story about us...
+This will contain a short story about how we met.
 

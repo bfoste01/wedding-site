@@ -21,6 +21,6 @@ We built this part of the website with you in mind. We want to help you make a p
 - Fun Places to Drink
 - Fun Places to Shop
 
-You get the point...
+You get the point.
 
-The rest is **Coming Soon...**
+**Coming Soon...**

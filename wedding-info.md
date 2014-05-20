@@ -7,9 +7,9 @@ modified: 2014-05-08
 ---
 
 #Wedding FAQ
-This section will contain all sorts of good information about the wedding, which will include:
+Stuff you probably want to know, including:
 
-* The Venue: Sumner Mansion Inn 
+* The Venue: <a href="http://myweddingmansion.com">Sumner Mansion Inn</a>
 * Location: Hartland, Vt
 * Date: September 6th, 2015 (i.e., the Sunday of Labor Day weekend)
 * Time: **TBA**
