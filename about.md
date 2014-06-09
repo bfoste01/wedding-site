@@ -9,7 +9,7 @@ image:
   credit: <a href="http://www.flickr.com/photos/76195500@N00/2434626795/">a song under the sugar sugar</a> via <a href="http://compfight.com">Compfight</a> <a href="https://creativecommons.org/licenses/by-nc-nd/2.0/">cc</a>
   creditlink: 
 ---
-**Coming Soon...**
+Julie and Brandon met at a New Year's Eve party in 2010 where they were both cajolled into talking to one-another. Brandon kissed Julie at midnight and the rest, as they say, is history.
 
-This will contain a short story about how we met.
+(It's also a much longer story, but if you'd like you can **[click here](/articles/initial-meet/)** and start reading.) 
 
